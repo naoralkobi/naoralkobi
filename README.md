@@ -18,9 +18,9 @@
 
 I am a Python Developer from Israel.
 
-- :telescope: I’m working as a Junior Python Developer at <a href =""> Webz.Io </a>
+- :telescope:  I’m working as a Junior Python Developer at <a href ="https://webz.io/"> Webz.Io </a>
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naoralkobi/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naoralkobi/)
 
 
 
