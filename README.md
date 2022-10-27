@@ -28,7 +28,8 @@ I am a Python Developer from Israel.
 ### :fire: My Stats :
 
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=naoralkobi&layout=compact&theme=vision-friendly-dark
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoralkobi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 ### Hi there 👋
