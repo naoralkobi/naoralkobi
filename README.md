@@ -1,3 +1,16 @@
+### :woman_technologist: About Me :
+
+I am a Python Developer from Israel.
+
+- :telescope:  I’m working as a Junior Python Developer at <a href ="https://webz.io/"> Webz.Io </a>
+- 🌱 I am a 3rd year computer science student at Bar-Ilan University.
+- 👯 I’m looking to collaborate with other content creators.
+
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naoralkobi/)
+ 
+ ---
+
 <div>
   
   <div id="header" align="center">
@@ -11,19 +24,6 @@
   </div>
   
  </div>
- 
- ---
-
-### :woman_technologist: About Me :
-
-I am a Python Developer from Israel.
-
-- :telescope:  I’m working as a Junior Python Developer at <a href ="https://webz.io/"> Webz.Io </a>
-- 🌱 I am a 3rd year computer science student at Bar-Ilan University.
-- 👯 I’m looking to collaborate with other content creators.
-
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naoralkobi/)
 
 ---
 
