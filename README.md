@@ -17,7 +17,7 @@
 I am a Python Developer from Israel.
 
 - :telescope:  I’m working as a Junior Python Developer at <a href ="https://webz.io/"> Webz.Io </a>
-- 🌱 I am a 3rd year computer science student at Bar-Ilan University.
+- 🌱 Graduated with a bachelor's degree in computer science from Bar Ilan University
 - 👯 I’m looking to collaborate with other content creators.
 
 
