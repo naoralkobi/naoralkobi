@@ -1,37 +1,41 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/naoralkobi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 
-### :man_technologist: About Me :
+### :man_technologist: Hello, I'm Naor Alkobi!
 
-- :telescope:  I’m working as a Junior Python Developer at <a href ="https://webz.io/"> Webz.Io </a>
-- 🌱 Graduated with a bachelor's degree in computer science from Bar Ilan University
-- 👯 I’m looking to collaborate with other content creators.
+I'm a passionate programmer with a knack for turning ideas into code. I'm currently a Junior Python Developer at [Webz.Io](https://webz.io/), where I get to work on exciting projects and expand my skills.
 
+🎓 Graduated with a bachelor's degree in computer science from Bar Ilan University in [2023].
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/naoralkobi/)
- 
+🔭 I'm constantly exploring new technologies and improving my coding prowess.
+
+👯 I'm enthusiastic about collaborating with fellow content creators and developers on innovative projects.
+
+:mailbox: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/naoralkobi/) to discuss coding, collaboration, or anything tech-related!
 
 ---
 
-### :fire: Naor Alkobi's Stats :
+### :fire: Naor Alkobi's Stats:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naoralkobi&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoralkobi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--
 ### Hi there 👋
 **naoralkobi/naoralkobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
