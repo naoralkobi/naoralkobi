@@ -10,13 +10,11 @@
 
 ### :man_technologist: Hello, I'm Naor Alkobi!
 
-I'm an enthusiastic programmer with a demonstrated history of success in system maintenance and data engineering. Presently, I hold the position of Junior Python Developer at [Webz.Io](https://webz.io/), actively contributing to the maintenance and improvement of high-performance systems essential for daily analysis of millions of web documents.
+I'm an enthusiastic programmer with a demonstrated history of success in system maintenance and data engineering. Presently, I hold the position of Software Engineer at [Webz.Io](https://webz.io/), actively contributing to the maintenance and improvement of high-performance systems essential for daily analysis of millions of web documents.
 
 🎓 Graduated with a bachelor's degree in computer science from Bar Ilan University in [2023].
 
 🔭 I have demonstrated expertise in Python, Elasticsearch, Redis, and MySQL, contributing significantly to the improvement of system reliability and customer satisfaction.
-
-👯 I am enthusiastic about collaborating with fellow developers on innovative projects and have led the integration of AI and Large Language Models (LLMs) to revolutionize web crawler parsing capabilities.
 
 :mailbox: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/naoralkobi/) to discuss coding, collaboration, or anything tech-related!
 
