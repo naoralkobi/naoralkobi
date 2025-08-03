@@ -8,32 +8,26 @@
   </a>
 </div>
 
-### :man_technologist: Hello, I'm Naor Alkobi!
+# 👋 Hello, I'm **Naor Alkobi**
 
-I'm an enthusiastic programmer with a demonstrated history of success in system maintenance and data engineering. Presently, I hold the position of Software Engineer at [Webz.Io](https://webz.io/), actively contributing to the maintenance and improvement of high-performance systems essential for daily analysis of millions of web documents.
+I’m a **Backend Software Engineer** specializing in **scalable financial systems and infrastructure**.  
+Currently at **[Fiverr](https://fiverr.com)**, I focus on **high-performance backend services, provider integrations, and system modernization** (Kotlin, Java 21, Spring, and cloud-native architectures).  
+Previously, I worked at **[Webz.io](https://webz.io/)**, where I built large-scale web data collection systems in **Python**, designed distributed crawlers, improved scheduling performance, and created internal developer tools that reduced development overhead by 40%.
 
-🎓 Graduated with a bachelor's degree in computer science from Bar Ilan University in [2023].
+### 🔧 Core Expertise
+- **Languages:** Kotlin, Java (17 → 21 migration), Ruby, Python  
+- **Tech & Tools:** Spring Boot, REST APIs, MySQL, MongoDB, Redis, RabbitMQ, Kafka, Docker, AWS  
+- **Focus Areas:** Service migration (Ruby → Kotlin), webhook infrastructure, provider integrations, distributed crawling, CI/CD automation  
 
-🔭 I have demonstrated expertise in Python, Elasticsearch, Redis, and MySQL, contributing significantly to the improvement of system reliability and customer satisfaction.
-
-:mailbox: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/naoralkobi/) to discuss coding, collaboration, or anything tech-related!
+🎓 **B.Sc. Computer Science, Bar Ilan University (2023)**
 
 ---
 
-### :fire: Naor Alkobi's Stats:
+### 📊 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naoralkobi&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=naoralkobi&theme=dark&hide_border=true)](https://git.io/streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naoralkobi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
-### Hi there 👋
-**naoralkobi/naoralkobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+📬 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/naoralkobi/) | [GitHub](https://github.com/naoralkobi)
